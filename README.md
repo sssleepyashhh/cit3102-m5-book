@@ -2,11 +2,11 @@
 CIT_3102 - Midterms: Activity 2
 
 **Partners:** Lyra Ashley U. Embalsado and Aulrich Espiritu
-**Section:** IT3E
-**Resource:** Book
+/n**Section:** IT3E
+/n**Resource:** Book
 
-**Step 1: the resource**
-This API manages books. Each book has the following fields:
+/n**Step 1: the resource**
+/nThis API manages books. Each book has the following fields:
 
 | Field | Type | Description |
 |---|---|---|
