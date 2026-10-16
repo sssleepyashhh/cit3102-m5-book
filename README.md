@@ -17,3 +17,5 @@ This API manages books. Each book has the following fields:
 | pages | integer | The number of pages |
 
 The numeric field is `pages`. The filterable fields are `genre` and `author`.
+
+**Step 2: the project**
