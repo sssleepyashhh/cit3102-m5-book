@@ -1,10 +1,8 @@
 # cit3102-m5-book
 CIT_3102 - Midterms: Activity 2
 
-**Partners:** Lyra Ashley U. Embalsado and Aulrich Espiritu
-
-**Section:** IT3E
-
+**Partners:** Lyra Ashley U. Embalsado and Aulrich Espiritu\
+**Section:** IT3E\
 **Resource:** Book
 
 **Step 1: the resource**
